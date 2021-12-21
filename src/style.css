@@ -1,0 +1,38 @@
+.divider:after,
+.divider:before {
+  content: "" !important;
+  flex: 1 !important;
+  height: 1px !important;
+  background: #eee !important;
+}
+.h-custom {
+  height: calc(100% - 73px) !important;
+}
+@media (max-width: 450px) {
+  .h-custom {
+    height: 100% !important;
+  }
+}
+
+.social-icons {
+  display: inline-block !important;
+  padding-right: 10px !important;
+  padding-left: 10px !important;
+}
+
+.table-layout {
+  table-layout: fixed !important;
+}
+
+.break-word {
+  word-break: break-all !important;
+}
+
+.bold-text {
+  font-weight: bold !important;
+  font-size: 18px !important;
+}
+
+.normal-text {
+  font-size: 18px !important;
+}
