@@ -1,9 +1,10 @@
 import React from "react";
-import diagramImage from "../images/diagram.png"
+import diagramImage from "../images/diagram.png";
+import default_login_info from "../images/default_login_info.png";
 
 const HomeComponent = () => {
   return (
-    <div style={{"paddingBottom":"150px"}}>
+    <div style={{ paddingBottom: "150px" }}>
       <br />
       <h2>1. Back-End</h2>
       <ul>
@@ -42,7 +43,25 @@ const HomeComponent = () => {
         </li>
       </ul>
 
-      <h2>3. Security Diagram</h2>
+      <h2>3. Application Demo Use</h2>
+      <ul>
+        <li>
+          <p>Default Login Information</p>
+          <img
+            style={{ width: "600px", height: "50px" }}
+            className="img-fluid"
+            alt="default_login_info"
+            src={default_login_info}
+          />
+        </li>
+        <br/>
+        <li>
+        <p>Spring Back-end API: </p>
+        👉 <a href="https://github.com/phamanhdung1813/spring_boot_security_backend">https://github.com/phamanhdung1813/spring_boot_security_backend</a>
+      </li>
+      </ul>
+
+      <h2>4. Security Diagram</h2>
       <img
         style={{ width: "950px", height: "580px" }}
         className="img-fluid"
