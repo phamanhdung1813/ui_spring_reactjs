@@ -19,11 +19,11 @@ const FooterComponent = () => {
         <Col lg={12} className="text-center text-muted">
           <div>
             {year}, <FaRegCopyright /> Anh Dung Pham, from{" "}
-            <a href="https://anhdungpham.com">stanleypham.com</a>
+            <a href="https://stanleypham.com">stanleypham.com</a>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <a
               className="social-icons"
-              href="https://www.google.com/"
+              href="https://stanleypham.com"
               style={{ color: "white" }}
               target="_blank"
               rel="noopener noreferrer"
@@ -32,7 +32,7 @@ const FooterComponent = () => {
             </a>
             <a
               className="social-icons"
-              href="https://www.google.com/"
+              href="https://github.com/phamanhdung1813"
               style={{ color: "white" }}
               target="_blank"
               rel="noopener noreferrer"
@@ -41,7 +41,7 @@ const FooterComponent = () => {
             </a>
             <a
               className="social-icons"
-              href="https://www.google.com/"
+              href="https://www.linkedin.com/in/anh-dung-pham-38830b1a6/"
               style={{ color: "white" }}
               target="_blank"
               rel="noopener noreferrer"

@@ -21,7 +21,7 @@ const HomeComponent = () => {
         <li>
           <p>
             RESTful API security with Spring Security, JWT Token, Symmetric Key,
-            CSRF and OpenLDAP Authenticate.
+            CSRF.
           </p>
         </li>
         <li>
