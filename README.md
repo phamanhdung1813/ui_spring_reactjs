@@ -1,8 +1,5 @@
-# REACTJS UI APPLICATION URL 👇
-## https://ui-spring-reactjs.herokuapp.com/
-
 # SPRING BOOT BACKEND APPLICATION URL 👇
-## https://spring-boot-security-backend.herokuapp.com
+## https://github.com/phamanhdung1813/spring_boot_security_backend
 
 ![image](https://user-images.githubusercontent.com/71564211/147018097-cb37dc33-a458-4d11-9d5f-4a2a23fcf503.png)
 
